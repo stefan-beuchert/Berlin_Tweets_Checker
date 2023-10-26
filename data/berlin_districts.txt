@@ -1,0 +1,24 @@
+# Name of districts from https://www.berlin.de/special/immobilien-und-wohnen/stadtteile/ accessed on 09.12.2021
+Charlottenburg
+Friedrichshain
+Hellersdorf
+Gohenschönhausen
+Kreuzberg, Kreutzberg, Xberg
+Köpenick
+Lichtenberg
+Marzahn
+Mitte
+Neukölln
+Pankow
+Prenzlauer Berg
+Reinickendorf
+Schöneberg
+Spandau
+Steglitz, Steglits
+Tempelhof
+Tiergarten
+Treptow, Trepto
+Wedding
+Weißensee, Weisensee
+Wilmersdorf
+Zehlendorf

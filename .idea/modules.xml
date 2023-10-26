@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Learning from Images/03_nn/.idea/03_nn.iml" filepath="$PROJECT_DIR$/../../Learning from Images/03_nn/.idea/03_nn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Learning from Images/04_autoencoder/.idea/04_autoencoder.iml" filepath="$PROJECT_DIR$/../../Learning from Images/04_autoencoder/.idea/04_autoencoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BerlinChecker.iml" filepath="$PROJECT_DIR$/.idea/BerlinChecker.iml" />
+    </modules>
+  </component>
+</project>
